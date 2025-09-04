@@ -1,5 +1,5 @@
 /*
- *  Stromzähler-Bruteforce – komplett & stabil
+ *  Pin-Bruteforce – komplett & stabil
  *  ESP32-C3-MINI-1 | Web-Konfig | Dropdown-Menü | Debug-Level | Timing
  *  ------------------------------------------------------------
  *  1. Erststart: AP „StromBruteforce“ + Passwort → nur WLAN eintragen
